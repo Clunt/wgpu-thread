@@ -1,0 +1,30 @@
+[package]
+name = "wgpu-thread"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# anyhow = { workspace = true }
+# wasmi = { workspace = true }
+# wasmi_wasi = { workspace = true }
+# wat = { workspace = true }
+# wgpu = { workspace = true }
+# ahash = { workspace = true }
+pollster = "0.3.0"
+wgpu = "0.20.0"
+winit = "0.30.0"
+# bincode = "1.3.3"
+# serde = "1.0.202"
+# wasmer = "4.3.0-beta.1"
+# wasmer-compiler-cranelift = "4.3.0-beta.1"
+# wasmer-middlewares = "4.3.0-beta.1"
+# wasmer-types = "4.3.0-beta.1"
+# wasmer-wasix = "0.19.0"
+# tokio = "1.36.0"
+# tempfile = "3.6.0"
+# ureq = "2.6"
+# bytemuck = { version = "1.14", features = ["derive"] }
+# flume = "0.11"
+# raw-window-handle = "0.6"
+# cursor-icon = "1.1.0"
+# image = { version = "0.25.0", default-features = false, features = ["png"] }
